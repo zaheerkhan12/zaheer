@@ -1,5 +1,9 @@
 body{
 background-color: aqua;
-align-items: center;
 
+
+}
+.body h2{
+    text-align: center;
+    align-items: center;
 }
